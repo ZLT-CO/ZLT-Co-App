@@ -1,6 +1,5 @@
 Modern desktop experience for ZLT Co. built with Electron
- and packaged using Install Forge
-.
+ and packaged using Install Forge.
 
 #Features
 Modern desktop interface
